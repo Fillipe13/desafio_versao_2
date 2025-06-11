@@ -1,1 +1,1 @@
-Sistema Bancário com incremento de novas funcionalidades.
+Sistema Bancário em Python com incremento de novas funcionalidades.
